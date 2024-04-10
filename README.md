@@ -4,7 +4,7 @@ Hi 👋 My name is 'Ashvary Gidian'
 I am Aspiring "FULL STACK WEB DEVELOPER"
 ----------------------------------------
 
-I am learning MERN Stack
+I am Full Stack Developer ( M E R N )
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [ashvarygidian1996@gmail.com](mailto:ashvarygidian1996@gmail.com)
