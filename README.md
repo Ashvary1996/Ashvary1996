@@ -1,7 +1,7 @@
 Hi 👋 My name is 'Ashvary Gidian'
 =================================
 
-I am Aspiring "FULL STACK WEB DEVELOPER"
+I am "FULL STACK WEB DEVELOPER"
 ----------------------------------------
 
 I am Full Stack Developer ( M E R N )
