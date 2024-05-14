@@ -26,12 +26,9 @@
   <a href="https://www.youtube.com/channel/UC7y4znPZpCVNJYDUVZCxKnQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
-<h3 align="left">▶ Languages and Tools:</h3>
+<h3 align="left">▶ Tools & TEchnoly :</h3>
 <p style="display: inline-block;" align="center">
-  <kbd><kbd>Programming Languages</kbd></kbd>
   <br>
-  <br>
-
   <kbd><kbd>Back-end</kbd></kbd>
   <br>
   <br>
