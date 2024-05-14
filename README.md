@@ -68,7 +68,7 @@
 
 </p>
 
-<h3 align="left">▶ Stats:</h3>
+<!-- <h3 align="left">▶ Stats:</h3>
 <p align="center">
   <img src="https://badges.pufler.dev/visits/ashvary1996/ashvary1996?style=for-the-badge" alt="Visits" /> 
   <img src="https://badges.pufler.dev/repos/ashvary1996/?style=for-the-badge" alt="Repos" />
@@ -88,3 +88,4 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashvary1996&theme=holi-theme" alt="GitHub Streak Stats" />
 </p>
+ -->
