@@ -1,91 +1,81 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00000&size=30&lines=Hey!+It's+Ashvary!+👋;I'm+a+Front+End+Developer;I'm+a+Back+End+Developer;I'm+a+Full+Stack+Developer)
 
-## About Me
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00000&size28&lines=Hello!+I'm+Ashvary+Gidian;Full+Stack+Developer;Creating+Digital+Experiences)
 
-<h3 align="center">I'm a Full Stack Web Developer specializing in the MERN stack. 😄</h3>
 
-<br>
 
-<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+## 👨‍💻 About Me
 
-### Full Stack Web Developer
+I'm a passionate Full Stack Web Developer specializing in the **MERN stack**. I love crafting dynamic, responsive, and user-friendly web applications that provide real value. My expertise lies in both **front-end** and **back-end** development, ensuring a comprehensive approach to problem-solving.
 
-- 🌱 I’m currently mastering Full Stack Web Development.
-- 👯 I’m looking to collaborate with other Developers.
-- 🥅 2024 Goals: Contribute to Open Source projects.
-- 💬 Ask me about anything, I am happy to help 😄
-- 📬 How to reach me: [Let's get in touch !](https://www.linkedin.com/in/ashvary-gidian) | [E-Mail](https://mail.google.com/mail/?view=cm&to=ashvarygidian1996@gmail.com)
-- 🧗 I try to Go beyond and push the bounds.
-- ⚡ Fun fact: I love connecting with different people.
+- 🌱 Currently enhancing my skills in advanced **Full Stack Development**.
+- 🤝 Open to collaborations on innovative projects.
+- 🛠️ 2024 Goals: Contribute to impactful **Open Source** projects.
+- 📬 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/ashvary-gidian) | [E-Mail](mailto:ashvarygidian1996@gmail.com)
+- 🌟 Check out my [Portfolio](https://ashvary-gidian.netlify.app/)
 
-<h3 align="left">▶ Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.com/users/l3gion0007" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/452/discord-logo.png" width="32" height="32" /></a>
-  <a href="https://www.github.com/Ashvary1996" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/ashvary-gidian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.youtube.com/channel/UC7y4znPZpCVNJYDUVZCxKnQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-</p>
+## 💼 Projects
 
-<h3 align="left">▶ Tools and Technology :</h3>
-<p style="display: inline-block;" align="center">
-   
-  <br>
+Here are a few projects that showcase my skills and expertise:
 
-<kbd><kbd>Back-end</kbd></kbd>
-<br>
-<br>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
+- **[E-Commerce Application](https://github.com/Ashvary1996/e-com-app)**: A full-featured e-commerce app with sign up, log in, product listing, cart,mailing system and payment integration. [Explore the App](https://ecom-app-by-ashvary.netlify.app/)
 
-<kbd><kbd>Front-end</kbd></kbd>
-<br>
-<br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" />
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30" /></a>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30" />
+- **[Bus Ticketing System - Red Bus](https://github.com/Ashvary1996/RedBus)**: A comprehensive solution for booking bus tickets, complete with seat selection and payment processing. [Check it Out](https://red-bus-by-ashvary.netlify.app/)
 
-<kbd><kbd>Database</kbd></kbd>
-<br>
-<br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" />
+- **[FlashCard Generator](https://github.com/Ashvary1996/flashcardgenerator)**: A tool for creating and managing flashcards for study purposes. [Try it Here](https://flashcardgenerator4.netlify.app/)
 
-<kbd><kbd>Deployment</kbd></kbd>
-<br>
-<br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-plain.svg" alt="Netlify" />
-<img width="30px" src="https://global.discourse-cdn.com/business6/uploads/render/original/2X/1/11352202c8503f736bea5efb59684f678d7c860c.svg" alt="Heroku" />
+## 🛠️ Tools & Technologies
 
-<kbd><kbd>Tools</kbd></kbd>
-<br>
-<br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" />
+**Front-end:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux-Toolkit](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-</p>
+**Back-end:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<!-- <h3 align="left">▶ Stats:</h3>
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/ashvary1996/ashvary1996?style=for-the-badge" alt="Visits" /> 
-  <img src="https://badges.pufler.dev/repos/ashvary1996/?style=for-the-badge" alt="Repos" />
-</p>
-<p align="center">
-  <img src="https://badges.pufler.dev/commits/monthly/ashvary1996" alt="Monthly Commits" />
-</p>
+**Tools & Platforms:**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-430098?style=flat-square&logo=heroku&logoColor=white)
 
-</p>
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvary1996&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb" alt="Top Languages" />
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashvary1996&count_private=true&show_icons=trueline_height=21&theme=github_dark" alt="GitHub Stats" />
-  <br>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashvary1996&theme=holi-theme" alt="GitHub Streak Stats" />
-</p>
- -->
+## 🛠️ Mini Projects
+
+Here are a few smaller projects that demonstrate my versatility:
+
+- **[Weather App](https://github.com/Ashvary1996/weather_app)**: An application that provides weather updates based on location. [Explore Here](https://weather-app-ashvary.netlify.app/)
+
+- **[Movie Finder](https://github.com/Ashvary1996/movie_finder)**: A movie search app using an external API to display movie details. [Discover More](https://movies-finder-app-v2.netlify.app/)
+
+- **[Todo App](https://github.com/Ashvary1996/todo_app)**: A simple and effective to-do list application. [Try it Out](https://mytodoapp-v2.netlify.app/)
+
+- **[Real-Time Chat App](https://github.com/Ashvary1996/chatify)**: A fully responsive chat application using React and Socket.IO, featuring real-time messaging. [Join the Conversation](https://chatifybyashvary.netlify.app/)
+
+- **[BookMyShow (Backend-Based)](https://github.com/Ashvary1996/bookmyshow)**: A backend solution for saving movie ticket booking. [Check it Out](https://bookmyshow-3.netlify.app/)
+
+- **[Quiz Time](https://github.com/Ashvary1996/quiz_time)**: A quiz application with real-time scoring and result display.
+<!--[Start Quizzing](https://quiz-time-by-ashvary.netlify.app/)-->
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvary1996&layout=compact&theme=radical)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashvary-gidian)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashvary1996)
+[![E-Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashvarygidian1996@gmail.com)
+
+## 🎯 Fun Facts
+
+- 🧗 I’m always pushing my limits and striving for excellence.
+- ⚡ I love connecting with like-minded people and learning from their experiences.
+
+Thanks for visiting my GitHub profile! 😄
