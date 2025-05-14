@@ -50,7 +50,11 @@ I'm a passionate Full Stack Web Developer specializing in the MERN stack. I thri
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D90000?style=flat-square\&logo=redis\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Server-Sent Events](https://img.shields.io/badge/Server_Sent_Events-FFB400?style=flat-square\&logo=html5\&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square\&logo=google\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=google-cloud\&logoColor=white)
 
 ### **Tools & Platforms**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -59,6 +63,7 @@ I'm a passionate Full Stack Web Developer specializing in the MERN stack. I thri
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Hostinger VPS](https://img.shields.io/badge/Hostinger%20VPS-FF0000?style=flat-square\&logo=hostinger\&logoColor=white)
 
 ---
 
