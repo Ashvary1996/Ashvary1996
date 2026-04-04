@@ -13,20 +13,20 @@
 ---
 
 <p align="center">
-  <a href="https://ashvarygidian.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+ <a href="https://ashvarygidian.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-F4382A?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/ashvary-gidian">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ashvarygidian1996@gmail.com">
+  <a href="mailto:ashvary11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Ashvary1996">
+  <a href="https://github.com/Ashvary11">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://wa.me/917000240904?text=Hello%20Ashvary!%20I%20wanted%20to%20connect%20with%20you.">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-128C7E ?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </p>
 
@@ -34,22 +34,20 @@
 
 ## 👨‍💻 **About Me**
 
-<div align="center">
-  
-<!-- ![Metrics](https://metrics.lecoq.io/Ashvary1996?template=compact&activity=1&activity.limit=5&activity.days=14&activity.filter=push&activity.icons=true&activity.separator=↦&config.timezone=Asia%2FKolkata) -->
+I'm a **Full Stack Developer** who works across the entire layer — intuitive UIs, clean REST APIs, and databases that don't fall apart under pressure. I care about each layer being well-built, not just functional.
 
-</div>
+Through professional work and real projects, I've developed hands-on understanding of things that actually matter in production: **JWT, cookies, Google OAuth, and role-based access control** for auth; **Redis caching** and **rate-limited APIs** for performance; **Socket.io** for real-time features; and **automated data pipelines** that replaced repetitive manual work.
 
-I'm a passionate **Full Stack Web Developer** specializing in the MERN stack. I thrive on crafting dynamic, responsive, and user-friendly web applications that deliver real value. With expertise in both front-end and back-end development, I aim to provide holistic and innovative solutions to complex challenges.
+On the infrastructure side, I've been hands-on with **Linux, Nginx** (reverse proxy + load balancing), and **Docker** (containerization basics) — locally set up and stress-tested, including horizontal and vertical scaling experiments to see where things break and *why*. That last part tends to stick the most.
 
 <div align="left">
 
-- 🌱 **Currently Learning**: Advanced **Full Stack Development (MERN)**, **Next.js**, and **TypeScript**
-- 🤝 **Open to Collaborations**: Keen to contribute to impactful projects
-- 🎯 **2026 Goals**: 
-  - Transition into **leadership roles** in software development
-  - Contribute to **Open Source** initiatives
-  - Build tools/libraries for developers
+- 🌱 **Currently Exploring**: System design, scalability patterns & TypeScript at depth
+- 🤝 **Open to**: Roles and collaborations where I can contribute *and* keep growing
+- 🎯 **2026 Goals**:
+  - Step into **technical leadership** in a product team
+  - Contribute meaningfully to **Open Source**
+  - Build something developers actually use daily
 
 </div>
 
@@ -57,13 +55,13 @@ I'm a passionate **Full Stack Web Developer** specializing in the MERN stack. I 
 
 ## 🚀 **Featured Projects**
 
-| Project | Description | Tech Stack | Demo |
-|---------|-------------|------------|------|
-| 🌀 **Tripzy AI** | AI-powered travel assistant with smart itinerary planning, destination recommendations, and personalized travel experiences | Nextjs, MongoDB, Gemini,ShadCn | [Live Demo](https://tripzy-ai.netlify.app/) |
-| 🛒 **E-Commerce App** | Feature-rich platform with auth, cart, payments & mailing | MERN, Redux-Toolkit, Stripe | [Explore](https://ecom-app-by-ashvary.netlify.app/) |
-| 🚌 **Red Bus** | Bus ticket booking with seat selection & payments | MERN Stack | [Check Out](https://red-bus-by-ashvary.netlify.app/) |
-| 📇 **FlashCard Generator** | Create & manage flashcards for learning | React,TailwindCSS | [Try It](https://flashcardgenerator4.netlify.app/) |
-
+| Project | Description | Tech Stack | Demo | 🎬 Video |
+|---------|-------------|------------|------|----------|
+| 🌀 **Tripzy AI** | AI-powered travel assistant with smart itinerary planning, destination recommendations, and personalized travel experiences | Next.js, MongoDB, Gemini, ShadCn | [Live Demo](https://tripzy-ai.netlify.app/) | [Watch](https://youtu.be/rDvS5ZGAVeg) |
+| 🛒 **E-Commerce App** | Feature-rich platform with auth, cart, payments & mailing | MERN, Redux-Toolkit, Stripe | [Explore](https://ecom-app-by-ashvary.netlify.app/) | [Watch](https://youtu.be/m-sjNPMmv5M) |
+| 🚌 **Red Bus** | Bus ticket booking with seat selection & payments | MERN Stack | [Check Out](https://red-bus-by-ashvary.netlify.app/) | [Watch](https://youtu.be/HDNleQAdPmo) |
+| 📇 **FlashCard Generator** | Create & manage flashcards for learning | React, TailwindCSS | [Try It](https://flashcardgenerator4.netlify.app/)   
+| 💬 **ChatBot** | Real-Time Chatbot & Support System | React, Socket.io, Express | [Try It](https://flashcardgenerator4.netlify.app/)   
 ---
 
 ## 🛠️ **Tech Stack**
@@ -93,12 +91,15 @@ I'm a passionate **Full Stack Web Developer** specializing in the MERN stack. I 
 
 </div>
 
-### Tools & Platforms
+### Infrastructure & Tools
 <div align="left">
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -111,40 +112,23 @@ I'm a passionate **Full Stack Web Developer** specializing in the MERN stack. I 
 
 <div align="center">
 
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| 🌦️ **Weather App** | Real-time weather updates by location | [Explore](https://weather-app-ashvary.netlify.app/) |
-| 🎬 **Movie Finder** | Search movies via external APIs | [Discover](https://movies-finder-app-v2.netlify.app/) |
-| ✅ **Todo App** | Productivity-focused to-do list | [Try It](https://mytodoapp-v2.netlify.app/) |
-| 🎟️ **BookMyShow** | Backend-powered ticket booking | [Check Out](https://bookmyshow-3.netlify.app/) |
-| 💬 **Real-Time Chat** | React + Socket.IO messaging | [Join](https://chatifybyashvary.netlify.app/) |
-| 🧠 **Quiz Time** | Real-time quiz with scoring | [Play](https://quiztime-ashvary.netlify.app/) |
+| Project | Description | Live Demo
+|---------|-------------|-----------
+| 🌦️ **Weather App** | Real-time weather updates by location | [Explore](https://weather-app-ashvary.netlify.app/)
+| 🎬 **Movie Finder** | Search movies via external APIs | [Discover](https://movies-finder-app-v2.netlify.app/)
+| ✅ **Todo App** | Productivity-focused to-do list | [Try It](https://mytodoapp-v2.netlify.app/)
+| 🎟️ **BookMyShow** | Backend-powered ticket booking | [Check Out](https://bookmyshow-3.netlify.app/)
+| 💬 **Real-Time Chat** | React + Socket.IO messaging | [Join](https://chatifybyashvary.netlify.app/)
+| 🧠 **Quiz Time** | Real-time quiz with scoring | [Play](https://quiztime-ashvary.netlify.app/)
 
 </div>
-
----
-
-<!-- ## 📊 **GitHub Stats**
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ashvary1996&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=0078D4&text_color=FFFFFF" height="180" alt="stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvary1996&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=0078D4&text_color=FFFFFF" height="180" alt="languages" />
-      </td>
-    </tr>
-  </table>
-</div> -->
 
 ---
 
 ## 🔥 **Streak Stats**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashvary1996&theme=radical&hide_border=true&background=0d1117&ring=0078D4&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=Streak&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&title_color=0078D4" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ashvary11&theme=radical&hide_border=true&background=0d1117&ring=0078D4&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=Streak&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&title_color=0078D4" alt="streak" />
 </div>
 
 ---
@@ -152,7 +136,7 @@ I'm a passionate **Full Stack Web Developer** specializing in the MERN stack. I 
 ## 📈 **Contribution Activity**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvary1996&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=0078D4&line=0078D4&point=61DAFB&area=true&areaOpacity=0.3" width="100%" alt="activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvary11&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=0078D4&line=0078D4&point=61DAFB&area=true&areaOpacity=0.3" width="100%" alt="activity" />
 </div>
 
 ---
@@ -160,7 +144,7 @@ I'm a passionate **Full Stack Web Developer** specializing in the MERN stack. I 
 ## 👀 **Profile Views**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashvary1996&style=for-the-badge&color=0078D4&label=Profile+Views" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Ashvary11&style=for-the-badge&color=0078D4&label=Profile+Views" alt="views" />
 </div>
 
 ---
@@ -170,8 +154,8 @@ I'm a passionate **Full Stack Web Developer** specializing in the MERN stack. I 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashvary-gidian)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashvary1996)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashvarygidian1996@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashvary11)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashvary11@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=firefox&logoColor=white)](https://ashvarygidian.vercel.app/)
 
 </div>
@@ -185,4 +169,3 @@ I'm a passionate **Full Stack Web Developer** specializing in the MERN stack. I 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=38e079&height=100&section=footer)
 
 </div>
-
