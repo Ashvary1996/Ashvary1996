@@ -61,7 +61,7 @@ On the infrastructure side, I've been hands-on with **Linux, Nginx** (reverse pr
 | 🛒 **E-Commerce App** | Feature-rich platform with auth, cart, payments & mailing | MERN, Redux-Toolkit, Stripe | [Explore](https://ecom-app-by-ashvary.netlify.app/) | [Watch](https://youtu.be/m-sjNPMmv5M) |
 | 🚌 **Red Bus** | Bus ticket booking with seat selection & payments | MERN Stack | [Check Out](https://red-bus-by-ashvary.netlify.app/) | [Watch](https://youtu.be/HDNleQAdPmo) |
 | 📇 **FlashCard Generator** | Create & manage flashcards for learning | React, TailwindCSS | [Try It](https://flashcardgenerator4.netlify.app/)   
-| 💬 **ChatBot** | Real-Time Chatbot & Support System | React, Socket.io, Express | [Try It](https://flashcardgenerator4.netlify.app/)   
+| 💬 **ChatBot** | Real-Time Chatbot & Support System | React, Socket.io, Express | | [Watch](https://youtu.be/a_NgU7Rc3bs)   
 ---
 
 ## 🛠️ **Tech Stack**
@@ -118,8 +118,7 @@ On the infrastructure side, I've been hands-on with **Linux, Nginx** (reverse pr
 | 🎬 **Movie Finder** | Search movies via external APIs | [Discover](https://movies-finder-app-v2.netlify.app/)
 | ✅ **Todo App** | Productivity-focused to-do list | [Try It](https://mytodoapp-v2.netlify.app/)
 | 🎟️ **BookMyShow** | Backend-powered ticket booking | [Check Out](https://bookmyshow-3.netlify.app/)
-| 💬 **Real-Time Chat** | React + Socket.IO messaging | [Join](https://chatifybyashvary.netlify.app/)
-| 🧠 **Quiz Time** | Real-time quiz with scoring | [Play](https://quiztime-ashvary.netlify.app/)
+| 💬 **Real-Time Chat** | React + Socket.IO messaging | [Demo](https://youtu.be/a_NgU7Rc3bs)
 
 </div>
 
