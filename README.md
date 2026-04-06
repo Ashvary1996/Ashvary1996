@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://wa.me/917000240904?text=Hello%20Ashvary!%20I%20wanted%20to%20connect%20with%20you.">
-  <img src="https://img.shields.io/badge/WhatsApp-128C7E ?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </p>
 
@@ -126,17 +126,17 @@ On the infrastructure side, I've been hands-on with **Linux, Nginx** (reverse pr
 
 ## 🔥 **Streak Stats**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashvary11&theme=radical&hide_border=true&background=0d1117&ring=0078D4&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=Streak&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&title_color=0078D4" alt="streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ashvary11&theme=radical&hide_border=true&background=0d1117&ring=0078D4&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=Streak&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&title_color=0078D4&cache_seconds=1800" />
+</p>
+
 
 ---
 
 ## 📈 **Contribution Activity**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvary11&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=0078D4&line=0078D4&point=61DAFB&area=true&areaOpacity=0.3" width="100%" alt="activity" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvary11&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=0078D4&line=0078D4&point=61DAFB&area=true&areaOpacity=0.3" />
+</p>
 
 ---
 
